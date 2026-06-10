@@ -1,0 +1,1 @@
+# badprog-electronics-freertos-timer-task-notification-and-event-group-on-stm32f3discovery-with-i2c
